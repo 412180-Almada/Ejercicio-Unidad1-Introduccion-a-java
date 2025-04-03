@@ -48,7 +48,7 @@ public class Main {
         return Resultado4;
     }
 
-    //Hacer un programa que ingrese el precio de un artículo a la venta y calcule el precio con IVA
+
 
 
 

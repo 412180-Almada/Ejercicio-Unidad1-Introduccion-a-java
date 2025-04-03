@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//Hacer un programa que ingrese el precio de un artículo a la venta y calcule el precio con IVA
 public class Ejercicio2 {
     public static void main(String[] args)
     {
